@@ -1,0 +1,116 @@
+main {
+	width: 70%
+	margin: 0 auto;
+	padding: 4%
+
+
+}
+main section.full {
+	width:80%%;
+	height: 10vh;
+	background-color: rgb(221, 190, 169);
+}
+main section.setengah {
+	width:32.65%;
+	height: 10vh;
+	background-color: rgb(237, 220, 210);
+	margin-top: 1%;
+	margin-right: 1%;
+	float: left; 
+}
+main section.sepertiga {
+	width:32.65%;
+	height: 5vh;
+	background-color: rgb(237, 220, 210);
+	margin-top: 4%;
+	margin-right: 1%;
+	float: left; 
+
+}
+main section.setengah2 {
+	width:32.65%;
+	height: 10vh;
+	background-color: rgb(237, 220, 210);
+	margin-top: 1%;
+	float: left;
+} 
+main section.satu {
+	width:19.2%;
+	height: 20vh;
+	background-color: rgb(183, 183, 164);
+	margin-top: 1%;
+	float: right;  
+} 
+main section.satu2 {
+	width:19.2%;
+	height: 20vh;
+	background-color: rgb(183, 183, 164);
+	margin-top: 1%;
+	margin-right: 1%;
+	float: right;
+} 
+main section.satu3 {
+	width:19.2%;
+	height: 20vh;
+	background-color: rgb(183, 183, 164);
+	margin-top: 1%;
+	margin-right: 1%;
+	float: right;
+} 
+main section.satu4 {
+	width:19.2%;
+	height: 20vh;
+	background-color: rgb(183, 183, 164);
+	margin-top: 1%;
+	margin-right: 1%;
+	float: right;
+} 
+main section.satu5 {
+	width:19.2%;
+	height: 20vh;
+	background-color: rgb(183, 183, 164);
+	margin-top: 1%;
+	margin-right: 1%;
+	float: right;
+} 
+main section.dua {
+	width:19.2%;
+	height: 20vh;
+	background-color: rgb(183, 183, 164);
+	margin-top: 1%;
+	float: right;
+} 
+main section.dua2 {
+	width:19.2%;
+	height: 15vh;
+	background-color: rgb(221, 190, 169);
+	margin-top: 1%;
+	margin-right: 1%;
+	float: right;
+} 
+main section.dua3 {
+	width:19.2%;
+	height: 10vh;
+	background-color: rgb(221, 190, 169);
+	margin-top: 1%;
+	margin-right: 1%;
+	float: right;
+} 
+main section.dua4 {
+	width:19.2%;
+	height: 15vh;
+	background-color: rgb(221, 190, 169);
+	margin-top: 1%;
+	margin-right: 1%;
+	float: right;
+} 
+main section.dua5 {
+	width:19.2%;
+	height: 20vh;
+	background-color: rgb(183, 183, 164);
+	margin-top: 1%;
+	margin-right: 1%;
+	float: right;
+} 
+
+
