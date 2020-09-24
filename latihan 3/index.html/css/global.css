@@ -1,0 +1,210 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+
+section.background {
+	width: 100%;
+	height: 100vh;
+	background-color: transparent;
+}
+
+main {
+	width: 80%;
+	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.container {
+	width: 50%;
+	height: 60%;
+	background-color: transparent;
+	float: left;
+
+}
+
+.up {
+	width: 85%;
+	height: 10%;
+	background-color: grey;
+	padding-left: 15%;
+	padding right: 15%
+}
+
+.up h1 {
+	padding-top: 2%;
+	padding-bottom: 10%
+}
+
+.center {
+	width: 100%;
+	height: 30%;
+}
+table {
+	width:98.4%;
+	border-color: red;
+	margin-left: 2%;
+}
+
+thead {
+	width: 99%;
+	background-color: grey;
+	margin-left: 2%;
+}
+
+thead tr th {
+	color:white;
+	text-align: center;
+}
+
+.down {
+	width: 100%;
+	height: 60%;
+}
+
+.box1 {
+	width: 100%;
+	height: 30%;
+	background-color: transparent;
+	color: green;
+	font-family: bold;
+}
+.box1 p {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.line {
+	width: 80%;
+	height: 2%;
+	background-color: green;
+}
+
+.box2 {
+	width: 100%;
+	height:165%;
+	background-color: transparent;
+	line-height: 150%
+}
+.container1 {
+	width: 50%;
+	height: 100%;
+	background-color: transparent;
+	float: left;
+}
+
+.box3 {
+	width: 100%;
+	height: 3%;
+	background-color: transparent;
+	padding-top: 10px;
+}
+
+.box3 p {
+	text-align: right;
+	color: black;
+	padding-top: 5px;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.box4 {
+	width: 100%;
+	height: 10%;
+	background-color: transparent;
+	font-weight: bold;
+	padding-bottom: 80px;
+}
+.box4 p {
+	text-align: right;
+	font-size: 120px;
+	
+}
+
+.box5 {
+	width: 40%;
+	height: 10%;
+	margin-left: 56%;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 4px;
+	background-color: lavender;
+	border-radius: 10px; 
+
+}
+
+.box6 {
+	width: 100%;
+	height: 73%;
+	background-color: transparent;
+}
+
+.superbox1 {
+	width: 100%;
+	height: 5%;
+	padding-bottom: 10px;
+}
+
+.superbox1 p {
+	font-size: 23px;
+	font-family: bold;
+}
+
+.line2 {
+	width: 100%;
+	height: 1%;
+	background-color: grey;
+}
+
+.superbox2 {
+	width: 100%;
+	height: 70%;
+}
+
+.minibox1 {
+	width: 100%;
+	height: 20%;
+	background-color: transparent;
+}
+
+.kotak1 {
+	width: 20%;
+	height: 80%;
+	float: left;
+	background-color: transparent;
+	padding-top: 5px;
+	padding-bottom: -3px;
+}
+.kotak1 p {
+	font-family: bold;
+	font-size: 200%;
+}
+
+.kotak2 {
+	width: 50%;
+	height: 72.7%;
+	float: left;
+	background-color: transparent;
+	padding-top: 10px;
+	line-height: 120%
+
+}
+.kotak2 p {
+	font-size: 110%;
+	font-family: bold;
+
+}
+
+
+.kotak3 {
+	width: 20%;
+	height: 80%;
+	float: left;
+	text-align: right;
+	background-color:transparent;
+	padding-top: 6px;
+	padding-bottom: 1px;
+
+}
