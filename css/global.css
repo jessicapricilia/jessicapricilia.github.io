@@ -5,206 +5,326 @@ padding: 0;
 
 
 section.background {
-	width: 100%;
+	width: 1366px;
 	height: 100vh;
 	background-color: transparent;
 }
 
 main {
-	width: 80%;
+
+	width: 90%;
 	height: 100%;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-.container {
-	width: 50%;
-	height: 60%;
-	background-color: transparent;
-	float: left;
-
-}
-
-.up {
-	width: 85%;
-	height: 10%;
-	background-color: grey;
-	padding-left: 15%;
-	padding right: 15%
-}
-
-.up h1 {
-	padding-top: 2%;
-	padding-bottom: 10%
-}
-
-.center {
+.navigation {
 	width: 100%;
-	height: 30%;
-}
-table {
-	width:98.4%;
-	border-color: red;
-	margin-left: 2%;
-}
-
-thead {
-	width: 99%;
-	background-color: grey;
-	margin-left: 2%;
-}
-
-thead tr th {
-	color:white;
-	text-align: center;
-}
-
-.down {
-	width: 100%;
-	height: 60%;
-}
-
-.box1 {
-	width: 100%;
-	height: 30%;
-	background-color: transparent;
-	color: green;
-	font-family: bold;
-}
-.box1 p {
-	font-size: 30px;
-	font-weight: bold;
-}
-
-.line {
-	width: 80%;
 	height: 2%;
-	background-color: green;
+	margin-top: 1%;
 }
 
-.box2 {
-	width: 100%;
-	height:165%;
-	background-color: transparent;
-	line-height: 150%
+a {
+	text-decoration: none;
 }
-.container1 {
-	width: 50%;
+.home {
+	width: 7%;
 	height: 100%;
-	background-color: transparent;
 	float: left;
+	text-decoration-color: black;
 }
 
-.box3 {
-	width: 100%;
-	height: 3%;
-	background-color: transparent;
-	padding-top: 10px;
+.home:hover {
+	text-decoration: underline;
 }
 
-.box3 p {
-	text-align: right;
+.home p {
 	color: black;
-	padding-top: 5px;
-	font-size: 25px;
-	font-weight: bold;
 }
 
-.box4 {
-	width: 100%;
-	height: 10%;
-	background-color: transparent;
-	font-weight: bold;
-	padding-bottom: 80px;
-}
-.box4 p {
-	text-align: right;
-	font-size: 120px;
+.hyphenation1 {
+	width: 7%;
+	height: 100%;
+	float: left;
+	text-decoration-color: black;
 	
 }
 
-.box5 {
-	width: 40%;
-	height: 10%;
-	margin-left: 56%;
-	padding-left: 10px;
-	padding-right: 10px;
-	padding-top: 4px;
-	background-color: lavender;
-	border-radius: 10px; 
-
+.hyphenation1:hover {
+	text-decoration: underline;
 }
 
-.box6 {
-	width: 100%;
-	height: 73%;
-	background-color: transparent;
+.hyphenation1 p {
+	color: black;
 }
 
-.superbox1 {
-	width: 100%;
-	height: 5%;
-	padding-bottom: 10px;
-}
-
-.superbox1 p {
-	font-size: 23px;
-	font-family: bold;
-}
-
-.line2 {
-	width: 100%;
-	height: 1%;
-	background-color: grey;
-}
-
-.superbox2 {
-	width: 100%;
-	height: 70%;
-}
-
-.minibox1 {
-	width: 100%;
+.container {
+	width: 80%;
 	height: 20%;
 	background-color: transparent;
-}
+	margin-left: auto;
+	margin-right: auto;
+	line-height: 1em;
 
-.kotak1 {
-	width: 20%;
-	height: 80%;
+}
+.container h4 {
+	padding-top: 2%;
+	line-height: 1em;
+}
+.inprint {
+	width: 100%;
+	height: 17%;
+	line-height: 1em;
+	text-align: justify;
+
+}
+.ontheweb {
+	width: 98%;
+	height: 24%;
+	margin-left: 2%;
+	text-align: justify;
+	line-height: 1em;
+}
+.container h1 {
+	text-align: center;
+	margin-top: 0.3em;
+	line-height: 1em;
+
+}
+.container h2 {
+	text-align: center;
+
+}
+.container h3 {
+	text-align: center;
+
+}
+.container h4 {
+	text-align: center;
+}
+.numbers {
+	height: 35%;
+	width:99%;
+	margin-left: 1%;
+	text-align: justify;
+	line-height: 1em;
+
+}
+.number h4 {
+	padding-top: 2%;
+}
+.fear {
+	width: 100%;
+	height: 33%;
+	text-align: justify;
+	line-height: 1em;
+}
+.bytheway {
+	width: 98%;
+	height: 24%;
+	margin-left: 2%;
+	text-align: justify;
+	line-height: 1em;
+}
+.hyphenation{
+	text-align: justify;
+	line-height: 1em;
+	height: 44%;
+	margin-top: 2%;
+
+}
+.hyphenation h4 {
+	font-size: 0.667em;
+	width: 98%;
+	margin-left: 2%;
+	text-align: justify;
+}
+.dashes {
+	text-align: justify;
+	height:10%;
+}
+.persegi {
+	width: 38%;
+	height:5%;
+	margin-left: 2%;
+	
+}
+.persegi1 {
+	width: 22%;
+	height:100%;
 	float: left;
-	background-color: transparent;
-	padding-top: 5px;
-	padding-bottom: -3px;
+	
 }
-.kotak1 p {
-	font-family: bold;
-	font-size: 200%;
+.numbers2 {
+	height: 17%;
+	width:99%;
+	margin-left: 1%;
+	text-align: justify;
+	line-height: 1em;
+}
+.note {
+	text-align: justify;
+	line-height: 1em;
+	height: 8%;
+}
+.twosize{
+	text-align: justify;
+	line-height: 1em;
+	height: 8%;
+}
+.twouse{
+	text-align: justify;
+	line-height: 1em;
+	height: 2%;
+}
+.numbers3{
+	height: 5%;
+	width:99%;
+	margin-left: 1%;
+	text-align: justify;
+	line-height: 1em;
+}
+.break{
+	text-align: justify;
+	line-height: 1em;
+	height: 7%;
+}
+.bytheway2{
+	height: 30%;
+	width:99%;
+	margin-left: 1%;
+	text-align: justify;
+	line-height: 1em;
+	margin-bottom: 7%;
 }
 
-.kotak2 {
-	width: 50%;
-	height: 72.7%;
-	float: left;
-	background-color: transparent;
-	padding-top: 10px;
-	line-height: 120%
-
+@media (max-width: 340px) {
+	section.background{
+		width:340px;
+	}
+	
+	main {
+		width: 80%;
+	}
+	.navigation {
+		margin-top: 5%;
+	}
+	.home {
+		width: 15%;
+		margin-left: 35%;
+	}
+	
+	.hyphenation1 {
+		width: 20%;
+	}
+	
+	.container {
+		width: 100%;
+		height: 50%;
+		margin-top: 10%;
+	}
+	
+	.container h4 {
+		line-height: 2em;
+	}
+	.container h2 {
+		padding-top: 3%;
+	}
+	.container h3 {
+		padding-top: 2%;
+	}
+	
+	.inprint {
+		height: 45%;
+	}
+	
+	.ontheweb {
+		height: 65%;
+		width: 100%;
+		margin-left: 0%;
+	}
+	
+	.fear {
+		height: 120%;
+	}
+	
+	.numbers {
+		height: 85%;
+	}
+	
+	.bytheway {
+		height: 90%;
+	}
+	
+	.hyphenation {
+		margin-top: 10%;
+		height: 140%;
+	}
+	
+	.hyphenation h4 {
+		width: 100%;
+		margin-left: 0%;
+	}
+	
+	.hyphenation h3 {
+		padding-top: 2%;
+	}
+	
+	.persegi {
+		width: 100%;
+		margin-left: 0%;
+		height: 7%;
+	}
+	
+	.persegi1 {
+		width: 25%;
+	}
+	
+	.numbers2 {
+		height: 55%;
+		width: 100%;
+		margin-left: 0%;
+	}
+	
+	.note {
+		height: 25%;
+	}
+	
+	.twosize {
+		height: 22%;
+	}
+	.twouse {
+		height: 3%;
+	}
+	.numbers3 {
+		height: 25%;
+		width: 100%;
+		margin-left: 0%;
+	}
+	
+	.break {
+		height: 25%;
+	}
+	
+	.bytheway2 {
+		height: 110%;
+	}
 }
-.kotak2 p {
-	font-size: 110%;
-	font-family: bold;
-
-}
 
 
-.kotak3 {
-	width: 20%;
-	height: 80%;
-	float: left;
-	text-align: right;
-	background-color:transparent;
-	padding-top: 6px;
-	padding-bottom: 1px;
 
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

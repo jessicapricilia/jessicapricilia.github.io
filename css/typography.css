@@ -1,92 +1,55 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500;700&family=Roboto:wght@300;400&display=swap');
+
 
 h1 {
-  	font-family: 'Montserrat', sans-serif;
-  	font-size: 20px;
-  	color: white;
+  	font-family: 'Raleway', sans-serif;
+  	font-size: 1.5em;
+  	color: black;
+  	font-weight: 700;
 }
 
 h2 {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 15px;
-  	color: green;
+	font-family: 'Raleway', sans-serif;
+	font-size: 0.667em;
+  	color: black;
+  	font-weight: 500;
 }
 
 h3 {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 15px;
-	margin-left: 5%;
-	color: green;
+	font-family: 'Roboto', sans-serif;
+	font-size: 0.667em;
+	margin-top: 1%;
+	color: black;
+	font-weight: 300;
 }
 
 h4 {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 15px;
-	margin-left: 5%;
-	font-weight: lighter;
+	font-family: 'Roboto', sans-serif;
+	font-size: 0.444em;
+	font-weight: 300;
 
 }
 
 h5 {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 14px;
-	font-stretch: extra-condensed;
-	font-weight: lighter;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1em;
+	font-weight: 400;
 
 
 }
 
 h6 {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 16px;
-	font-stretch: extra-condensed;
-	font-weight: lighter;
+	font-family: 'Roboto', sans-serif;
+	font-size: 0.667em;
+	font-weight: 300;
 
 }
 
-h7 { 
-	font-family: 'Montserrat', sans-serif;
-	font-size: 15px;
- }
 
 p {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 30px;
-}
+	font-family: 'Roboto', sans-serif;
+	font-size: 0.667em;
+	font-weight: 300;
 
-thead {
-	font-family: 'Montserrat', sans-serif,;
-	font-size: 10px
-
-}
-
-tbody {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 10px;
-
-}
-th{
-	font-family: 'Montserrat', sans-serif;
-	font-size: 15px;
-}
-td {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 14px;
-	font-stretch: extra-condensed;
-	font-weight: lighter;
-}
-
-.box5 {
-	font-size: 10px;
-	font-weight: lighter;
-}
-.kotak1 p {
-	font-family: 'Montserrat', sans-serif;
-	font-weight: bold;
-
-}
-.kotak2 p {
-	font-family: 'Montserrat', sans-serif
-	font-weight bold;
 }
 
